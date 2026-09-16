@@ -33,7 +33,7 @@ This project was built as a **team assignment**, developed under **Agile princip
 
 <div align="center">
 
-![Quest Log Demo](./assets/questLog.gif)
+![Quest Log Demo](./frontend/assets/questLog.gif)
 
 </div>
 
