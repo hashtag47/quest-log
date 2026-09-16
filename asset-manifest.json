@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/quest-log/static/css/main.c7e02b09.css",
+    "main.js": "/quest-log/static/js/main.b6183bab.js",
+    "static/media/VideoGameCharacters-JuegoStudio.png": "/quest-log/static/media/VideoGameCharacters-JuegoStudio.cb8b0a99a42632d233d7.png",
+    "static/media/edited_banner.png": "/quest-log/static/media/edited_banner.9497fc5ead893b0f231c.png",
+    "static/media/fa-solid-900.ttf": "/quest-log/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/quest-log/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/witcher-thumbnail.webp": "/quest-log/static/media/witcher-thumbnail.e0e62db18d1131b48d4b.webp",
+    "static/media/bootstrap-icons.woff?": "/quest-log/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/quest-log/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/Video_game_char.jpg": "/quest-log/static/media/Video_game_char.7b4b9e13860638ef55f5.jpg",
+    "static/media/bootstrap-icons.woff2?": "/quest-log/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/quest-log/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/video-game-characters.jpg": "/quest-log/static/media/video-game-characters.a690719ae9a54ddd3f65.jpg",
+    "static/media/fa-regular-400.ttf": "/quest-log/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/quest-log/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/revicons.eot": "/quest-log/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/quest-log/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "/quest-log/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/revicons.woff": "/quest-log/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/quest-log/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "static/media/8bit-mario-runing.webp": "/quest-log/static/media/8bit-mario-runing.075700dc2716af1c9093.webp",
+    "index.html": "/quest-log/index.html",
+    "main.c7e02b09.css.map": "/quest-log/static/css/main.c7e02b09.css.map",
+    "main.b6183bab.js.map": "/quest-log/static/js/main.b6183bab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e02b09.css",
+    "static/js/main.b6183bab.js"
+  ]
+}
