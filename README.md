@@ -77,7 +77,7 @@ The app will be available at `http://localhost:3000`.
 
 ## Usage
 
-**Live link:** _([add link here](https://hashtag47.github.io/quest-log/))_
+**Live link:** _([https://hashtag47.github.io/quest-log/](https://hashtag47.github.io/quest-log/))_
 
 ---
 
