@@ -106,18 +106,21 @@ Component tests are written with **Jest** and **React Testing Library**. For exa
 - shows the game's title, rating, trophy count and poster
 - falls back to **0 trophies** when none are recorded
 - calls its `onClick` handler exactly once when clicked
+
 <div align="center">
+
 ![Jest test results](./frontend/assets/Jest.jpg)
 
 </div>
+
 ### Running the tests locally
- 
+
 ```bash
 cd frontend
 npm test                      # watch mode
 npm test -- --watchAll=false  # run once, as in CI
 ```
- 
+
 ---
 
 ## Authors & Acknowledgment
