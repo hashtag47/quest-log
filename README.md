@@ -14,6 +14,16 @@
 
 ---
 
+## Demo
+
+<div align="center">
+
+![Quest Log Demo](./frontend/assets/questLog.gif)
+
+</div>
+
+---
+
 ## About
 
 **Quest Log** is a web application built for gamers who want a clean, central place to log their gaming journey. Track what you've finished, what you're currently grinding through, and how long it took to get there.
@@ -26,16 +36,6 @@ This project was built as a **team assignment**, developed under **Agile princip
 - **Game Library** — keep a record of finished and in-progress games
 - **Playtime Logging** — track how long it took to complete each title
 - **Game Recommendations** — browse a curated list of trending games
-
----
-
-## Demo
-
-<div align="center">
-
-![Quest Log Demo](./frontend/assets/questLog.gif)
-
-</div>
 
 ---
 
